@@ -1,0 +1,178 @@
+{
+  "site": {
+    "title": "Md. Arman Hossen | Computer Science Student",
+    "logo": {
+      "text": "Arman",
+      "span": " Hossen."
+    },
+    "favicon": "/images/favicon.ico",
+    "nav": [
+      {
+        "label": "Home",
+        "link": "#hero"
+      },
+      {
+        "label": "About",
+        "link": "#about"
+      },
+      {
+        "label": "Education",
+        "link": "#education"
+      },
+      {
+        "label": "Skills",
+        "link": "#skills"
+      },
+      {
+        "label": "Focus Areas",
+        "link": "#portfolio"
+      },
+      {
+        "label": "Contact",
+        "link": "#contact"
+      }
+    ],
+    "sections": {
+      "about": {
+        "subtitle": "A Little Introduction",
+        "title": "About Me"
+      },
+      "education": {
+        "subtitle": "Academic Journey",
+        "title": "Education"
+      },
+      "skills": {
+        "subtitle": "What I Work With",
+        "title": "Skills & Expertise"
+      },
+      "portfolio": {
+        "subtitle": "What I Explore",
+        "title": "Technical Focus Areas"
+      },
+      "contact": {
+        "subtitle": "Let's Connect",
+        "title": "Contact Me"
+      }
+    },
+    "footer": "© 2026 Md. Arman Hossen. All rights reserved.",
+    "policies": {
+      "terms": {
+        "title": "Terms of Service | Md. Arman Hossen",
+        "heading": "Terms of Service",
+        "lastUpdated": "November 2026"
+      },
+      "privacy": {
+        "title": "Privacy Policy | Md. Arman Hossen",
+        "heading": "Privacy Policy",
+        "lastUpdated": "November 2026"
+      }
+    }
+  },
+  "profile": {
+    "name": "Md. Arman Hossen",
+    "subtitle": "Computer Science Student",
+    "profileImage": "",
+    "description": "Computer Science student at Daffodil International University with a strong foundation in programming, algorithms, software development, mathematics, and AI prompt engineering. Interested in building thoughtful web solutions and evaluating AI-powered digital experiences.",
+    "social": []
+  },
+  "about": {
+    "text": [
+      "I am Md. Arman Hossen, a Computer Science student at Daffodil International University. My academic focus combines Computer Science & Software Engineering as my primary major concentration with Mathematics as my secondary major concentration.",
+      "I am building a strong foundation in programming concepts, object-oriented programming, data structures, algorithm design, web development, and mathematical computing. I enjoy applying computational logic and analytical reasoning to understand problems and develop practical solutions.",
+      "Alongside software development, I have a strong interest in AI prompt engineering, AI content evaluation, response testing, fact-checking, web research, and bilingual content assessment in English and Bengali."
+    ],
+    "stats": [
+      {
+        "value": "02",
+        "label": "Major Concentrations"
+      },
+      {
+        "value": "03",
+        "label": "Academic Institutions"
+      },
+      {
+        "value": "02",
+        "label": "Working Languages"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Daffodil International University",
+      "qualification": "B.Sc. in Computer Science and Engineering",
+      "duration": "2023 – Present",
+      "result": "Undergraduate",
+      "details": [
+        "Major 1: Computer Science & Software Engineering",
+        "Major 2: Mathematics",
+        "Studying object-oriented programming, data structures, algorithm design, full-stack web development, and mathematical computing concepts.",
+        "Developing systematic logic, analytical knowledge, and practical software engineering skills through coursework and programming labs."
+      ]
+    },
+    {
+      "institution": "Govt. Ashek Mahmud College",
+      "qualification": "Higher Secondary Certificate (HSC) – Science",
+      "duration": "2020",
+      "result": "GPA: 5.00 / 5.00",
+      "details": [
+        "Completed Higher Secondary Certificate education in the Science discipline.",
+        "Built core analytical foundations in higher mathematics, physics, chemistry, and scientific reasoning."
+      ]
+    },
+    {
+      "institution": "Jamalpur Zilla School",
+      "qualification": "Secondary School Certificate (SSC) – Science",
+      "duration": "2018",
+      "result": "GPA: 5.00 / 5.00",
+      "details": [
+        "Achieved strong academic results in Secondary School Certificate education in the Science discipline.",
+        "Developed foundational knowledge in general science, mathematics, and logical reasoning."
+      ]
+    }
+  ],
+  "experience": [],
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "JavaScript"
+    ],
+    "web_development": [
+      "HTML5",
+      "CSS3",
+      "Frontend Development Concepts",
+      "Backend Development Concepts",
+      "Web Development"
+    ],
+    "academic_specialization": [
+      "Computer Science & Software Engineering",
+      "Mathematics"
+    ],
+    "ai_prompt_engineering": [
+      "AI Prompt Writing",
+      "Prompt Engineering",
+      "AI Content Evaluation",
+      "Response Testing"
+    ],
+    "analytical_and_technical": [
+      "Fact-Checking",
+      "Web Research",
+      "Data Annotation",
+      "Quality Control",
+      "Critical Thinking",
+      "Analytical Reasoning"
+    ],
+    "language_proficiency": [
+      "Bengali — Native",
+      "English — Professional Working Proficiency"
+    ]
+  },
+  "projects": [],
+  "services": [],
+  "testimonials": [],
+  "contact": {
+    "location": "Bashundhara, Dhaka, Bangladesh",
+    "email": "andrewhoggs16@gmail.com",
+    "phone": "+8801408415463"
+  }
+}
